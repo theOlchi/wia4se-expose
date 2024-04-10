@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  10 APR 2024 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  10 APR 2024 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1873,19 +1873,15 @@ c}]) [2] [3
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44062 strings out of 474397
- 872862 string characters out of 5738768
+ 44066 strings out of 474397
+ 872968 string characters out of 5738768
  1936190 words of memory out of 5000000
- 65542 multiletter control sequences out of 15000+600000
+ 65546 multiletter control sequences out of 15000+600000
  626561 words of font info for 82 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  130i,11n,145p,589b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1902,7 +1898,7 @@ pe1/public/lm/lmss17.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/lm/lmss9.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/lm/lmssbx10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (8 pages, 288994 bytes).
+Output written on main.pdf (8 pages, 287962 bytes).
 PDF statistics:
  185 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
