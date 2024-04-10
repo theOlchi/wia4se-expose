@@ -1,0 +1,155 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Finke2008}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a8ce24d0dab66f479f9a2e5df1a4d1d7}{%
+           family={Finke},
+           familyi={F\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d40bbfaa08c4d334f7db220898692040}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5cd50231732f67f08243051c2f5e83eb}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Rock},
+           giveni={R\bibinitperiod}}}%
+        {{hash=892f283a744a8d17379bfd3fa7ef768c}{%
+           family={Blackstock},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{6b8e1d1d04e72d946b14754d81440822}
+      \strng{fullhash}{3b46898962ba1156ec05d1db2d1728eb}
+      \strng{bibnamehash}{6b8e1d1d04e72d946b14754d81440822}
+      \strng{authorbibnamehash}{6b8e1d1d04e72d946b14754d81440822}
+      \strng{authornamehash}{6b8e1d1d04e72d946b14754d81440822}
+      \strng{authorfullhash}{3b46898962ba1156ec05d1db2d1728eb}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 3rd International Conference on Digital Interactive Media in Entertainment and Arts}
+      \field{langid}{english}
+      \field{series}{DIMEA '08}
+      \field{title}{Lessons Learned: Game Design for Large Public Displays}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{26\bibrangedash 33}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/1413634.1413644
+      \endverb
+    \endentry
+    \entry{Hochleitner2013}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6f979adabafe6c24c46c865e86f25ee4}{%
+           family={Hochleitner},
+           familyi={H\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e2d6c4a2a94c2142724fe7bcf3d75ac6}{%
+           family={Lankes},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=06a90d16303987adcc43a82def7834e3}{%
+           family={Diephuis},
+           familyi={D\bibinitperiod},
+           given={Jeremiah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dc47b9a84d36d000b0de03e5377e1dfe}{%
+           family={Hochleitner},
+           familyi={H\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris, France}%
+      }
+      \strng{namehash}{b4387e7b6140d6228c30330a79a4a60c}
+      \strng{fullhash}{07969e09b1bcbe4fb364eb4d1e0eea47}
+      \strng{bibnamehash}{b4387e7b6140d6228c30330a79a4a60c}
+      \strng{authorbibnamehash}{b4387e7b6140d6228c30330a79a4a60c}
+      \strng{authornamehash}{b4387e7b6140d6228c30330a79a4a60c}
+      \strng{authorfullhash}{07969e09b1bcbe4fb364eb4d1e0eea47}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the CHI 2013 Workshop on Designing and Evaluating Sociability in Online Video Games}
+      \field{langid}{english}
+      \field{series}{CHI '13}
+      \field{title}{Limelight -- Fostering Sociability in a Co-located Game}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{23\bibrangedash 28}
+      \range{pages}{6}
+    \endentry
+    \entry{Schell2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9e6bdf45cf25935038be8df5d9876ba2}{%
+           family={Schell},
+           familyi={S\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL, USA}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{9e6bdf45cf25935038be8df5d9876ba2}
+      \strng{fullhash}{9e6bdf45cf25935038be8df5d9876ba2}
+      \strng{bibnamehash}{9e6bdf45cf25935038be8df5d9876ba2}
+      \strng{authorbibnamehash}{9e6bdf45cf25935038be8df5d9876ba2}
+      \strng{authornamehash}{9e6bdf45cf25935038be8df5d9876ba2}
+      \strng{authorfullhash}{9e6bdf45cf25935038be8df5d9876ba2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{subtitle}{A Book of Lenses}
+      \field{title}{The Art of Game Design}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1201/b22101
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
