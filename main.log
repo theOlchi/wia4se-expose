@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  25 APR 2024 10:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  25 APR 2024 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1841,17 +1841,13 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 
  (chapters/expose.tex
 Chapter 1.
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 6.
 [1
 
 
 
 
 
-{C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{
-C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
-c}]) [2] [3
+]) [2] [3
 
 
 
@@ -1865,29 +1861,25 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44038 strings out of 474397
- 871960 string characters out of 5738768
+ 43994 strings out of 474397
+ 871455 string characters out of 5738768
  1936190 words of memory out of 5000000
- 65527 multiletter control sequences out of 15000+600000
- 626561 words of font info for 82 fonts, out of 8000000 for 9000
+ 65509 multiletter control sequences out of 15000+600000
+ 609566 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,11n,145p,711b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,11n,145p,698b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10
 .pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmc
 sc10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
 /lmr10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-lm/lmr6.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/lm/lmr8.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/lm/lmri10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/lm/lmss10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/lm/lmss12.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/lm/lmss17.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/lm/lmss9.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/lm/lmssbx10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (7 pages, 283438 bytes).
+lm/lmri10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/lm/lmss10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmss12.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/lm/lmss17.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/lm/lmssbx10.pfb>
+Output written on main.pdf (7 pages, 229684 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
