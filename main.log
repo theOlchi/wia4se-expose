@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  25 APR 2024 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  25 APR 2024 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1882,7 +1882,7 @@ Here is how much of TeX's memory you used:
  65300 multiletter control sequences out of 15000+600000
  602508 words of font info for 66 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,11n,145p,1238b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,11n,145p,1168b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10
 .pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
 10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
@@ -1891,7 +1891,7 @@ m/lmss12.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/lm/lmss17.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/lm/lmssbx10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/lm/lmsy10.pfb>
-Output written on main.pdf (7 pages, 188951 bytes).
+Output written on main.pdf (7 pages, 188921 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
