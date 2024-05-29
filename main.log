@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  25 APR 2024 12:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.10)  29 MAY 2024 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1770,39 +1770,39 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
 <<sRGB.icc>>
-Package csquotes Info: Redefining character " on input line 51.
+Package csquotes Info: Redefining character " on input line 50.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
-1.
+0.
 
 (C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-1.
+0.
 
 (C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<ot1.cmap>>
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-1.
+0.
  (C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-51.
+50.
 
 (C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 51.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
+(Font)              <6> on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
 
 
 (C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 
 
 (C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1811,7 +1811,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <images/logo.pdf, id=13, 269.93045pt x 269.93045pt>
 File: images/logo.pdf Graphic file (type pdf)
 <use images/logo.pdf>
-Package pdftex.def Info: images/logo.pdf  used on input line 51.
+Package pdftex.def Info: images/logo.pdf  used on input line 50.
 (pdftex.def)             Requested size: 85.35805pt x 85.35826pt.
 
 [1
@@ -1823,7 +1823,7 @@ heOlchi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/l
 ogo.pdf>] [2] (main.toc
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
-Package tocbasic Info: Using my definition of `\numberline' on input line 11.
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1850,21 +1850,41 @@ Chapter 1.
 {C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{
 C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
 c}]
-<images/../pdfs/Mindmap.pdf, id=67, 949.5274pt x 1342.9071pt>
+<images/../pdfs/Mindmap.pdf, id=69, 597.50829pt x 845.0471pt>
 File: images/../pdfs/Mindmap.pdf Graphic file (type pdf)
 <use images/../pdfs/Mindmap.pdf>
-Package pdftex.def Info: images/../pdfs/Mindmap.pdf  used on input line 48.
-(pdftex.def)             Requested size: 415.41025pt x 587.52042pt.
+Package pdftex.def Info: images/../pdfs/Mindmap.pdf  used on input line 27.
+(pdftex.def)             Requested size: 415.41025pt x 587.5059pt.
+ [2]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
+3.
+
+(C:\Users\theOlchi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (17.0pt too wide) in paragraph at lines 48--60
-[][] 
+Overfull \hbox (27.2107pt too wide) in paragraph at lines 33--34
+[]\T1/lmr/m/n/10.95 https://www.smithsonianmag.com/science-nature/math-card-gam
+e-spot-it-180970873/ 
  []
 
-[2] [3 <./images/../pdfs/Mindmap.pdf>]
+[3 <./images/../pdfs/Mindmap.pdf>]
+Overfull \hbox (8.44412pt too wide) in paragraph at lines 35--36
+[]\T1/lmr/m/n/10.95 https://lifehacker.com/almost-always-win-the-game-guess-who
+-with-this-math-bas-
+ []
 
-LaTeX Warning: Empty bibliography on input line 65.
 
-[4
+Overfull \hbox (12.35442pt too wide) in paragraph at lines 36--37
+[]\T1/lmr/m/n/10.95 https://arxiv.org/pdf/1509.03327 (+ Code https://github.com
+/cerule7/Guess-Who) 
+ []
+
+) [4{C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.
+enc}]
+
+LaTeX Warning: Empty bibliography on input line 64.
+
+[5
 
 
 
@@ -1887,13 +1907,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43789 strings out of 474397
- 867307 string characters out of 5738768
- 1935190 words of memory out of 5000000
- 65309 multiletter control sequences out of 15000+600000
- 602508 words of font info for 66 fonts, out of 8000000 for 9000
+ 43831 strings out of 474397
+ 868319 string characters out of 5738768
+ 1936190 words of memory out of 5000000
+ 65344 multiletter control sequences out of 15000+600000
+ 602873 words of font info for 67 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 130i,11n,145p,1168b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,11n,145p,1387b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10
 .pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
 10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
@@ -1902,9 +1922,9 @@ m/lmss12.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/lm/lmss17.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/lm/lmssbx10.pfb><C:/Users/theOlchi/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/lm/lmsy10.pfb>
-Output written on main.pdf (8 pages, 456196 bytes).
+Output written on main.pdf (9 pages, 3443057 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
